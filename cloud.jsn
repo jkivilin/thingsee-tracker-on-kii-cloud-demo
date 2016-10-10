@@ -1,0 +1,59 @@
+{
+"connectors":
+[
+    {
+      "connectorId": 1,
+      "connectorName": "Kii",
+      "protocol": "http",
+      "host": "api.kii.com",
+      "port": 80,
+      "auth": {
+        "appId": "zzzzzzz",
+        "appKey": "zzzzzzzzzzzzzzz",
+        "accessToken": ""
+      },
+      "service": {
+        "thingType": "TS1-device",
+        "thingId": "",
+        "vendorThingId": "Haltian1",
+        "password": "Haltian1",
+        "vendor": "Haltian Ltd",
+        "bucketName": "sensor_data"
+      }
+    }
+],
+  "old_connectors": [
+    {
+      "connectorId": 1,
+      "connectorName": "Thingsee Cloud",
+      "api": "v1",
+      "protocol": "http",
+      "host": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+      "port": 80,
+      "deviceAuthUuid": "xxxxxxxxx",
+      "deviceAuthToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  ],
+  "old_connections": [
+    {
+      "wifiConnections": [
+        {
+          "ssid": "xxxxxxx",
+          "encryption": "xxxxxxxxxx",
+          "password": "xxxxxxxx",
+          "connectionId": 1
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "cellularConnections": [
+        {
+          "accessPointName": "internet.ts.m2m",
+          "connectionId": 1
+        }
+      ]
+    }
+  ]
+}
