@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thingsee tracker</string>
+    <string name="desc">desc</string>
+    <string name="tracker">Child</string>
+    <string name="tracker_timestamp">Updated:</string>
+    <string name="tracker_accuracy">Accuracy: %.0f m</string>
+
+    <string name="main_view">Thingsee Tracker</string>
+
+    <string name="exit_application_query">Exit application?</string>
+    <string name="button_ok">OK</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_sign_in">sign in</string>
+    <string name="button_sign_up">sign up</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_save">Save</string>
+
+    <string name="less_than_min_ago">&lt;1 min ago</string>
+    <string name="minutes_ago">min ago</string>
+    <string name="hours_ago">hours ago</string>
+    <string name="hour_ago">hour ago</string>
+
+    <string name="timestamp_today">Today</string>
+    <string name="timestamp_yesterday">Yesterday</string>
+    <string name="timestamp_tomorrow">Tomorrow</string>
+
+    <string name="title_error">Error</string>
+
+    <string name="username_hint">Username (email address)</string>
+    <string name="password_hint">Password</string>
+
+    <string name="first_login_to_google_account">Please check that the Google Maps is up to date and that you have login into Google services!</string>
+
+    <string name="display_name_hint">Name*</string>
+    <string name="tracker_serial_nbr_hint">Serial number*</string>
+    <string name="button_register">Register</string>
+
+    <string name="menu_header">Menu</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_trackers">Trackers</string>
+    <string name="menu_general">General</string>
+    <string name="menu_register_tracker">Register a tracker</string>
+
+    <string name="menu_about">About</string>
+    <string name="menu_tracker_remove">Remove from service</string>
+
+    <string name="about_application">Application version:</string>
+    <string name="about_tracker_serial">S/N: </string>
+    <string name="about_tracker_imei">IMEI: </string>
+
+    <string name="create_account">Create an account</string>
+    <string name="first_name_hint">First name*</string>
+    <string name="last_name_hint">Last name*</string>
+    <string name="phone_nbr_hint">Phone number*</string>
+    <string name="email_loginname_instructions">Email address will be your login name</string>
+    <string name="email_address_hint">Email*</string>
+    <string name="password_instructions">Password has to be at least 8 characters long</string>
+    <string name="new_password_hint">Password*</string>
+    <string name="new_password_again_hint">Retype password*</string>
+
+    <string name="welcome_to_wizard_header">Welcome!</string>
+    <string name="welcome_to_wizard">If you purchased a tracker you can start tracking it as soon as you have added it</string>
+    <string name="welcome_to_wizard_button_here">here</string>
+    <string name="welcome_to_wizard_add_later">You can always add more trackers later from the menu.</string>
+    <string name="welcome_to_wizard_button_later">Later</string>
+
+    <string name="mandatory_information_first_name_missing">Mandatory information first name missing!</string>
+    <string name="mandatory_information_last_name_missing">Mandatory information last name missing!</string>
+    <string name="mandatory_information_phone_nbr_missing">Mandatory information phone number missing!</string>
+    <string name="mandatory_information_email_address_missing">Mandatory information email address missing!</string>
+    <string name="password_do_not_match_retyped_password">Passwords are not matching!</string>
+    <string name="password_less_than_8_chars">Password needs to be at least 8 characters long!</string>
+
+    <string name="registering_user_title">Registering...</string>
+    <string name="registering_user_message">Creating new account to cloud</string>
+
+    <string name="login_in_user_title">Login in...</string>
+    <string name="login_in_user_message">Connecting user into the cloud</string>
+    <string name="login_ok">Login ok, welcome</string>
+
+    <string name="adding_tracker_to_cloud_title">Registering...</string>
+    <string name="adding_tracker_to_cloud_message">Registering tracker to the cloud</string>
+
+    <string name="error_tracker_name_mandatory">Tracker name is mandatory!</string>
+    <string name="error_tracker_serial_mandatory">Tracker serial number is mandatory!</string>
+    <string name="error_tracker_id_mandatory">Tracker id is mandatory!</string>
+
+    <string name="remove_tracker_query">Remove tracker from service?</string>
+    <string name="tracker_removed_note">Tracker removed from the system!</string>
+    <string name="removing_tracker_from_cloud_title">Removing...</string>
+    <string name="removing_tracker_from_cloud_message">Removing tracker from the system</string>
+
+    <string name="saving_tracker_changes_to_cloud_title">Saving...</string>
+    <string name="saving_tracker_changes_to_cloud_message">Saving updated content to cloud</string>
+    <string name="tracker_updated">Tracker data updated</string>
+
+    <string name="network_error">Network error, please try again later!</string>
+
+    <string name="fetching_trackers_title">Reading information...</string>
+    <string name="fetching_trackers_message">Fetching tracker information from the cloud.</string>
+
+    <string name="error_image_not_available">Image not available!</string>
+
+    <string name="error_invalid_name_format">First and last name combined must be min 3, max 64 characters long</string>
+    <string name="error_invalid_phone_nbr_format">Invalid phone number, please use mobile number with international format</string>
+    <string name="error_invalid_email_format">Not a valid email address</string>
+    <string name="error_invalid_password_format">Invalid password, use normal characters and password length must be min 8, max 50 characters long</string>
+
+    <string name="menu_logout">Log out</string>
+    <string name="logout_query">Logging out clears all credentials and exits application.</string>
+
+    <string name="tracker_vendor_thing_id_hint">Tracker id*</string>
+
+    <string name="waiting_for_admin_code">Please type in admin password</string>
+    <string name="insert_admin_code_hint">Insert admin password</string>
+    <string name="tracker_name">Tracker</string>
+
+
+</resources>

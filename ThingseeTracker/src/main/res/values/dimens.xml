@@ -1,0 +1,27 @@
+<resources>
+    <dimen name="main_view_header_height">50dp</dimen>
+    <dimen name="main_view_header_height_half">20dp</dimen>
+    <dimen name="main_view_header_height_with_image">65dp</dimen>
+
+    <dimen name="header_text_size">26sp</dimen>
+
+    <dimen name="tracker_name_view_text_size">26sp</dimen>
+
+    <dimen name="notification_time_font_size">10sp</dimen>
+
+    <dimen name="tracker_name_size_in_main">20sp</dimen>
+
+    <dimen name="menu_header_font_size">26sp</dimen>
+    <dimen name="menu_item_header_font_size">24sp</dimen>
+    <dimen name="menu_item_font_size">22sp</dimen>
+
+    <dimen name="login_screen_info_font_size">16sp</dimen>
+    <dimen name="login_screen_edit_font_size">20sp</dimen>
+
+    <dimen name="wizard_welcome_font_size">26sp</dimen>
+
+    <dimen name="marker_popup_timestamp_font_size">14sp</dimen>
+
+    <dimen name="about_tracker_font_size">18sp</dimen>
+
+</resources>

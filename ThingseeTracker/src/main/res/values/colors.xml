@@ -1,0 +1,24 @@
+<resources>
+    <color name="list_item_touched">#77404040</color>
+    
+    <color name="white_effect">#ffffff</color>
+    <color name="black_effect">#000000</color>
+    <color name="page_header_text_color">#ffffff</color>
+
+    <color name="orange">#FF6633</color>
+    <color name="green">#00CC33</color>
+    <color name="green_for_acc">#005C33</color>
+    <color name="red">#C4262E</color>
+    <color name="yellow">#FFCC00</color>
+    <color name="dark_grey">#98A1A8</color>
+
+    <color name="accuracy_circle_green_fill">#30005C33</color>
+
+    <color name="dark_blue">#004b87</color>
+    <color name="washed_dark_blue_fa">#30315582</color>
+    <color name="washed_dark_blue_fa2">#B0315582</color>
+
+    <color name="editor_hint_alpha_color_grey">#304d5965</color>
+
+    <color name="track_color">#004b87</color>
+</resources>
