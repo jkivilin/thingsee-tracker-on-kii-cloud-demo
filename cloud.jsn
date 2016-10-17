@@ -3,7 +3,7 @@
 [
     {
       "connectorId": 1,
-      "connectorName": "Kii",
+      "connectorName": "Kii Cloud",
       "protocol": "http",
       "host": "api.kii.com",
       "port": 80,
